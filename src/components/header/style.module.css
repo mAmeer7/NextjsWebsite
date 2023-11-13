@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+
+}
+.logo{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btnLogout{
+    padding: 2px 5px;
+    cursor: pointer;
+    border: none;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.linkEach{
+    
+}
